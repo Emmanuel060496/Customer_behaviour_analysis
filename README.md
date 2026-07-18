@@ -348,5 +348,3 @@ It showcases the complete workflow expected of a Data Analyst and Business Intel
 Data Analyst | Data Scientist
 
 LinkedIn: [https://www.linkedin.com/in/emmanuel-ajilore-424442220/]
-
-GitHub: [Your GitHub Profile]
