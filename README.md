@@ -1,11 +1,22 @@
-# Customer Shopping Behaviour Analysis
+# Emmanuel's Data Portfolio
+Welcome to my data portfolio! Here, I document a summary of my projects in the data field. This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science-related topics.
 
-## Overview
+## Types of Projects
+* MS Excel
+* SQL
+* Python
+* Power BI
+* Combined tools
+
+## Combined tools: Python + SQL + Power BI
+### Customer Shopping Behaviour Analysis
+
+### Overview
 Data analytics project showcasing customer behaviour analysis using Python, SQL, and Power BI.
 This project presents an end-to-end data analytics solution designed to analyse customer shopping behaviour and purchasing patterns. The aim was to identify key trends, customer preferences, purchasing habits, and factors influencing spending behaviour through data analysis, SQL querying, and interactive visualisation.
 The project covers the complete analytics lifecycle, including data preparation, exploratory analysis, database querying, dashboard development, reporting, and presentation of findings.
 
-## Deliverables
+### Deliverables
 
 * Customer Shopping Dataset
 * Python EDA Notebook
@@ -16,7 +27,7 @@ The project covers the complete analytics lifecycle, including data preparation,
 * Gamma Presentation
 * Project Documentation
 
-## Skills
+### Skills
 
 This project demonstrates practical skills in:
 
@@ -28,7 +39,7 @@ This project demonstrates practical skills in:
 * Data Storytelling
 * Stakeholder Reporting
 
-## Dataset
+### Dataset
 
 **Dataset Name:** Customer Shopping Behaviour Dataset
 
@@ -64,7 +75,7 @@ Key attributes include:
 * Records: 3,900
 * Features: 18
 
-## Project Objectives
+### Project Objectives
 
 The objectives of this project were to:
 
@@ -76,7 +87,7 @@ The objectives of this project were to:
 * Develop an interactive dashboard for business stakeholders.
 * Generate actionable recommendations to improve customer engagement and sales performance.
 
-## Tools and Technologies
+### Tools and Technologies
 
 | Tool                            | Purpose                                |
 | ------------------------------- | -------------------------------------- |
@@ -92,9 +103,9 @@ The objectives of this project were to:
 | Jupyter Notebook                | Analysis environment                   |
 | GitHub                          | Version control and portfolio showcase |
 
-## Project Workflow
+### Project Workflow
 
-### 1. Data Loading
+#### 1. Data Loading
 
 The dataset was imported into Python using Pandas and examined to understand:
 
@@ -103,7 +114,7 @@ The dataset was imported into Python using Pandas and examined to understand:
 * Missing values
 * Summary statistics
 
-### 2. Exploratory Data Analysis (EDA)
+#### 2. Exploratory Data Analysis (EDA)
 
 EDA was conducted to uncover patterns and trends within the data.
 
@@ -122,7 +133,7 @@ Key analyses included:
 Visualisations were created using Matplotlib and Seaborn to support findings.
 
 
-### 3. Data Cleaning
+#### 3. Data Cleaning
 
 The following data quality checks were performed:
 
@@ -132,7 +143,7 @@ The following data quality checks were performed:
 * Standardised categorical values
 * Prepared data for SQL and Power BI analysis
 
-### 4. SQL Analysis
+#### 4. SQL Analysis
 
 The cleaned dataset was loaded into PostgreSQL, MySQL, or SQL Server for further analysis.
 
@@ -154,40 +165,40 @@ Example of the SQL operations used:
 * Ranking queries
 * Business KPI calculations
 
-### 5. Power BI Dashboard
+#### 5. Power BI Dashboard
 
 An interactive dashboard was developed to provide stakeholders with real-time insights into customer shopping behaviour.
 
 Dashboard pages included:
 
-#### Executive Summary
+##### Executive Summary
 
 * Total Customers
 * Total Revenue
 * Average Purchase Amount
 * Average Review Rating
 
-#### Customer Insights
+##### Customer Insights
 
 * Age Group Analysis
 * Gender Distribution
 * Subscription Status
 
-#### Sales Performance
+##### Sales Performance
 
 * Revenue by Category
 * Revenue by Season
 * Revenue by Location
 
-#### Customer Behaviour
+##### Customer Behaviour
 
 * Purchase Frequency
 * Payment Method Analysis
 * Discount and Promotion Analysis
 
-## Dashboard
+### Dashboard
 
-### Key KPIs
+#### Key KPIs
 
 * Total Customers
 * Total Sales Revenue
@@ -196,7 +207,7 @@ Dashboard pages included:
 * Repeat Purchase Rate
 * Subscription Adoption Rate
 
-### Interactive Features
+#### Interactive Features
 
 * Category Filters
 * Location Filters
@@ -205,9 +216,9 @@ Dashboard pages included:
 * Drill-through Analysis
 * Dynamic KPI Cards
 
-## Key Findings
+### Key Findings
 
-### Customer Insights
+#### Customer Insights
 
 * Clothing products generated the highest volume of purchases.
 * Most customers were aged between 30 and 60 years.
@@ -215,7 +226,7 @@ Dashboard pages included:
 * Certain payment methods were preferred over others.
 * Seasonal trends impacted purchasing behaviour across product categories.
 
-### Business Recommendations
+#### Business Recommendations
 
 * Increase targeted promotions for high-value customer segments.
 * Focus marketing efforts on top-performing categories.
@@ -223,6 +234,6 @@ Dashboard pages included:
 * Optimise seasonal campaigns based on purchasing trends.
 * Improve customer retention through personalised offers.
 
-## My Contact
+### My Contact
 * Email: ajilore33@gmail.com
 * LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
