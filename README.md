@@ -1,14 +1,32 @@
-# Customer_behaviour_analysis
-data analytics project showcasing customer behavior analysis using python, sql and power Bi.
 # Customer Shopping Behaviour Analysis
 
 ## Overview
-
+Data analytics project showcasing customer behaviour analysis using Python, SQL, and Power BI.
 This project presents an end-to-end data analytics solution designed to analyse customer shopping behaviour and purchasing patterns. The aim was to identify key trends, customer preferences, purchasing habits, and factors influencing spending behaviour through data analysis, SQL querying, and interactive visualisation.
-
 The project covers the complete analytics lifecycle, including data preparation, exploratory analysis, database querying, dashboard development, reporting, and presentation of findings.
 
----
+## Deliverables
+
+* Customer Shopping Dataset
+* Python EDA Notebook
+* Data Cleaning Scripts
+* SQL Analysis Queries
+* Power BI Dashboard
+* Business Report
+* Gamma Presentation
+* Project Documentation
+
+## Skills
+
+This project demonstrates practical skills in:
+
+* Data Cleaning
+* Exploratory Data Analysis
+* SQL Analytics
+* Business Intelligence
+* Dashboard Development
+* Data Storytelling
+* Stakeholder Reporting
 
 ## Dataset
 
@@ -46,8 +64,6 @@ Key attributes include:
 * Records: 3,900
 * Features: 18
 
----
-
 ## Project Objectives
 
 The objectives of this project were to:
@@ -59,8 +75,6 @@ The objectives of this project were to:
 * Understand relationships between demographics and spending.
 * Develop an interactive dashboard for business stakeholders.
 * Generate actionable recommendations to improve customer engagement and sales performance.
-
----
 
 ## Tools and Technologies
 
@@ -78,8 +92,6 @@ The objectives of this project were to:
 | Jupyter Notebook                | Analysis environment                   |
 | GitHub                          | Version control and portfolio showcase |
 
----
-
 ## Project Workflow
 
 ### 1. Data Loading
@@ -90,8 +102,6 @@ The dataset was imported into Python using Pandas and examined to understand:
 * Data types
 * Missing values
 * Summary statistics
-
----
 
 ### 2. Exploratory Data Analysis (EDA)
 
@@ -111,7 +121,6 @@ Key analyses included:
 
 Visualisations were created using Matplotlib and Seaborn to support findings.
 
----
 
 ### 3. Data Cleaning
 
@@ -123,13 +132,11 @@ The following data quality checks were performed:
 * Standardised categorical values
 * Prepared data for SQL and Power BI analysis
 
----
-
 ### 4. SQL Analysis
 
 The cleaned dataset was loaded into PostgreSQL, MySQL, or SQL Server for further analysis.
 
-Example business questions answered:
+Examples of the business questions answered:
 
 * Which product categories generate the highest sales?
 * Which age groups spend the most?
@@ -138,7 +145,7 @@ Example business questions answered:
 * How do discounts influence purchase amounts?
 * Which customer segments make repeat purchases?
 
-Example SQL operations:
+Example of the SQL operations used:
 
 * SELECT statements
 * Filtering and sorting
@@ -146,8 +153,6 @@ Example SQL operations:
 * Window functions
 * Ranking queries
 * Business KPI calculations
-
----
 
 ### 5. Power BI Dashboard
 
@@ -180,8 +185,6 @@ Dashboard pages included:
 * Payment Method Analysis
 * Discount and Promotion Analysis
 
----
-
 ## Dashboard
 
 ### Key KPIs
@@ -202,8 +205,6 @@ Dashboard pages included:
 * Drill-through Analysis
 * Dynamic KPI Cards
 
----
-
 ## Key Findings
 
 ### Customer Insights
@@ -222,125 +223,6 @@ Dashboard pages included:
 * Optimise seasonal campaigns based on purchasing trends.
 * Improve customer retention through personalised offers.
 
----
-
-## Project Structure
-
-```text
-customer-shopping-analysis/
-│
-├── data/
-│   ├── customer_shopping_behavior.csv
-│   └── cleaned_customer_data.csv
-│
-├── notebooks/
-│   └── customer_shopping_eda.ipynb
-│
-├── sql/
-│   └── customer_analysis_queries.sql
-│
-├── dashboard/
-│   └── customer_shopping_dashboard.pbix
-│
-├── reports/
-│   └── customer_shopping_report.pdf
-│
-├── presentation/
-│   └── gamma_presentation.pdf
-│
-├── images/
-│   └── dashboard_screenshots/
-│
-├── README.md
-│
-└── requirements.txt
-```
-
----
-
-## How to Run
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/customer-shopping-analysis.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd customer-shopping-analysis
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install pandas numpy matplotlib seaborn sqlalchemy
-```
-
-### 4. Run the Analysis
-
-```bash
-jupyter notebook
-```
-
-Open:
-
-```text
-notebooks/customer_shopping_eda.ipynb
-```
-
-and run all cells.
-
-### 5. Execute SQL Queries
-
-Import the cleaned dataset into PostgreSQL, MySQL, or SQL Server and execute the scripts located in:
-
-```text
-sql/customer_analysis_queries.sql
-```
-
-### 6. Open Power BI Dashboard
-
-Open:
-
-```text
-dashboard/customer_shopping_dashboard.pbix
-```
-
-to explore the interactive dashboard.
-
----
-
-## Deliverables
-
-* Customer Shopping Dataset
-* Python EDA Notebook
-* Data Cleaning Scripts
-* SQL Analysis Queries
-* Power BI Dashboard
-* Business Report
-* Gamma Presentation
-* Project Documentation
-
----
-
-## Business Value
-
-This project demonstrates practical skills in:
-
-* Data Cleaning
-* Exploratory Data Analysis
-* SQL Analytics
-* Business Intelligence
-* Dashboard Development
-* Data Storytelling
-* Stakeholder Reporting
-
-It showcases the complete workflow expected of a Data Analyst and Business Intelligence professional.
-
----
-
-## Contact
+## My Contact
 * Email: ajilore33@gmail.com
 * LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
