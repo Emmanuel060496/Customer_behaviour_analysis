@@ -341,10 +341,6 @@ It showcases the complete workflow expected of a Data Analyst and Business Intel
 
 ---
 
-## Author
-
-**[Emmanuel Ajilore]**
-
-Data Analyst | Data Scientist
-
-LinkedIn: [https://www.linkedin.com/in/emmanuel-ajilore-424442220/]
+## Contact
+* Email: ajilore33@gmail.com
+* LinkedIn: https://www.linkedin.com/in/emmanuel-ajilore-424442220/
